@@ -1,2 +1,4 @@
 # Prediction-of-steel-plates-faults-using-Machine-Learning
+Before starting the process of steel manufacturing, it is very important to test the quality of metal sheets as various faults and defects are there on these sheets. This project deals with Fault Diagnosis (FD) of the metal sheets using Machine Learning.
+As industrial technology is evolving, new fault diagnosis methods are needed to distinguish faults.
 Fault Diagnosis (FD) has a major importance to enhance the quality of manufacturing and to lessen the cost of product testing. Actually, quick and correct FD system helps to keep away from product quality problems and facilitates precautionary maintenance. This study evaluates the performances of three of the popular and effective data mining models to diagnose seven commonly occurring faults of the steel plate namely; Pastry, Z_Scratch, K_Scatch, Stains, Dirtiness, Bumps and Other_Faults.
